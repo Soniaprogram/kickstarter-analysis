@@ -21,14 +21,14 @@ For example to set the COUNTIFS() function for Number Successful with a Goal of 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+###### What are two conclusions you can draw about the Outcomes based on Launch Date?
 - I can draw the conclusion that it would be most beneficial to launch a campaign in May. Furthermore, the second conclusion is that the failed plays do not vary much based on launch date, implying that there is another factor that affects this more. 
 
-- What can you conclude about the Outcomes based on Goals?
+###### What can you conclude about the Outcomes based on Goals?
 - In Deliverable 2, I visualized the percentage of successful, failed, and canceled plays based on the funding goal amount in the form of a line chart. Based on the line chart, the highest successful plays occurred with a goal of less than $1000. On the contrary, the highest percentage of failed plays was 100% which occurred with a funding goal of $45,000-$49,999.
 
-- What are some limitations of this dataset?
+###### What are some limitations of this dataset?
 - This dataset does not specify the genre of plays which would also allow us to see why some plays were successful or more popular over others. It would also be beneficial to see the publicity methods used by successful campaigns versus failed campaigns to see if there is a correlation there. 
 
-- What are some other possible tables and/or graphs that we could create?
+###### What are some other possible tables and/or graphs that we could create?
 - With the current data set, we can create a table and graph to show the duration of the campaign and its correlation with the Outcome (success or failure) of the campaign. It would also be interesting to see the correlation of spotlight and the Outcome of the campaign. 
